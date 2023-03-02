@@ -7,7 +7,7 @@
 
 {
   "spider":"https://ghproxy.com/https://github.com/jyuxkw/2hacc/blob/main/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+  "wallpaper":"https://notabug.org/xkwjyu/biu/raw/master/2af357da9d2eae7d.jpg",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di41eWUuY2MvbGl2ZS9saXZlLnR4dA=="]}]}],
   "sites":[
     {"key":"drpy_js_豆瓣","name":"豆瓣[DRPY]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"},
